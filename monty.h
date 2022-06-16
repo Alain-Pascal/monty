@@ -31,7 +31,7 @@ typedef struct stack_s
  * @file: pointer to monty file
  * @content: line content
  * @lifi: flag change stack <-> queue
- * 
+ *
  * Description: carries values through the program
  */
 typedef struct bus_s
